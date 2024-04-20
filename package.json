@@ -1,0 +1,19 @@
+{
+  "name": "ax432-simple-calculator",
+  "version": "2.0.0",
+  "description": "we were making simple calculator with typescript.",
+  "main": "typrscript.js",
+  "type": "module",
+  "bin": "typescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talha khan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
